@@ -8,15 +8,15 @@
 
 #### Setup
 1. Clone the repo
-2. create a venv `python -m venv venv` and activate it `venv\Scripts\activate.bat` or the ps1 variant for powershell
-3. install requirements with `pip install -r requirements.txt`
-4. create a `.env` file with the following contents:
+2. Create a venv by running `python -m venv venv` and activate it using `venv\Scripts\activate.bat` or the ps1 variant for powershell
+3. Install requirements with `pip install -r requirements.txt`
+4. Create a `.env` file with the following contents:
 ```ini
 TOKEN=your_discord_bot_token_here
 ```
 5. Run `start.ps1` or `start.bat`
 6. Invite the bot to your server
-7. profit!
+7. Profit!
 
 ##### Notes
 The bot is provided as is and is not guaranteed to work. If you have any issues, please open an issue on the github repo. I might or might not fix it.
