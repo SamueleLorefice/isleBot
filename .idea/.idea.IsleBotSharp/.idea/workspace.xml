@@ -8,32 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ad02fc-d6b5-4413-931b-52fb76129e49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.IsleBot/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.IsleBot/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.IsleBotSharp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Card.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DbManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EStatus.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IsleBot.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IsleBot.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Match.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IsleBot/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IsleBot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IsleBot/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Card.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Player.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699202233917</updated>
       <workItem from="1699202234933" duration="14451000" />
-      <workItem from="1699298781898" duration="466000" />
+      <workItem from="1699298781898" duration="889000" />
     </task>
     <servers />
   </component>
