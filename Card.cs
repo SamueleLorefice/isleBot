@@ -13,8 +13,16 @@ public class Card {
     public int CurrentHealth { get; set; }
     public User Owner { get; set; }
 
-    public override string ToString() {
-        return $"{Name} ATK: {Attack} DEF: {Defense} HP: {CurrentHealth}/{MaxHealth}";
+
+    public override string ToString() => $"{Name} - Atk {Attack} Def {Defense} HP {CurrentHealth}/{MaxHealth}";
+    
+    public string ToFormattedString() {
+        var cardStr = $"**{Name}**\n" +
+                      $"**Class:** *COMING SOON*\n"+
+                      $"**ATK:** {Attack}\n" +
+                      $"**DEF:** {Defense}\n" +
+                      $"**HP:** {CurrentHealth}/{MaxHealth}\n";
+        return cardStr;
     }
 
     public Card(string name, int attack, int defense, int maxHealth) {
@@ -25,4 +33,3 @@ public class Card {
         CurrentHealth = maxHealth;
     }
 }
-
